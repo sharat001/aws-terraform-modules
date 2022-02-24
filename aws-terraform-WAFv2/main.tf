@@ -1,6 +1,5 @@
 provider "aws"{
-    access_key = "AKIAWI7TGBPHITJ3PSPQ"
-    secret_key = "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"
+
     region = var.region
 }
 
